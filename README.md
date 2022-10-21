@@ -6,11 +6,13 @@ I find myself needing to explain what has come before so you know where I am.
 
 I create applications that also happen to be destinations for your browser. From heavy state management user interfaces to SDK packages to micro services.
 I think in data transformation pipelines and system life cycles.
-I worry about supply chain attacks, runtime exploits and how much energy the test suite consumes.
+I worry about supply chain attacks, how much energy the test suite consumes and if the people around me are happy.
 
 I sense a [disturbance](https://github.com/phoenixframework/phoenix_live_view) in the force.
 
-[Look here](https://www.linkedin.com/in/koskey/) if you need to hire a programmer.
+A partial [portfolio](/past-developments.md) if you are interested.
+
+[Look here](https://www.linkedin.com/in/koskey/) for a traditional resume if you need to hire a programmer.
 
 ## Musician
 
