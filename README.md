@@ -8,11 +8,11 @@ I create applications that also happen to be destinations for your browser. From
 I think in data transformation pipelines and system life cycles.
 I worry about supply chain attacks, how much energy the test suite consumes and if the people around me are happy.
 
-I sense a [disturbance](https://github.com/phoenixframework/phoenix_live_view) in the force.
+I sense a [disturbance](https://github.com/phoenixframework/phoenix_live_view) in the force. And no it's not AI.
 
 A partial [portfolio](/past-developments.md) if you are interested.
 
-[Look here](https://www.linkedin.com/in/koskey/) for a traditional resume if you need to hire a programmer.
+[Linkedin](https://www.linkedin.com/in/koskey/) for a traditional resume if you need to hire a programmer. Or a more interesting version in [Markdown](/resume.md)
 
 ## Musician
 
@@ -20,6 +20,13 @@ I started playing out in bands long before I had adequate technical chops but I 
 I have one [real](https://www.avclub.com/stereolab-pulse-of-the-early-brain-review-1849487080#:~:text=inch%20single%20with-,Soi%2DDisant%20in%201998,-.%20Occasionally%2C%23the%20compositions) [published](https://www.youtube.com/watch?v=vXFyGpZzUpA) [7"](https://www.discogs.com/master/206410-Stereolab-Soi-Disant-Symbolic-Logic-Of-Now-Glitterati-Cruiser) and many things [laying around](https://soundcloud.com/thebacksof) on the internet that sound best in headphones.
 
 The pandemic yielded [this video](https://www.youtube.com/watch?v=jKG8GjcVH9s&t=48s&ab_channel=thebacksof) from me. It harvested chaos in more ways than one.
+
+### Closure Club
+
+[Site](https://cloversearecords.com/closure-club) and
+[Streaming](https://open.spotify.com/artist/2zFkR5l9V1iaOI4eZ7XylM)
+
+A real human band. Really amazing effort all around. Very happy with it. I am the guitar.
 
 ## Bike Enthusiast
 
