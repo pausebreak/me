@@ -12,6 +12,8 @@ It's open source :)
 
 [Darts app](https://pausebreak.github.io/darts)
 
+Working on an Elixir backend for a commercial play.
+
 ## Opengov
 
 2016-2022
